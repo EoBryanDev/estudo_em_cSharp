@@ -20,6 +20,10 @@ namespace Classes
 
             string txt = OrderStatus.PendingPayment.ToString();
 
+            OrderStatus status = (OrderStatus)Enum.Parse(typeof(OrderStatus),"Delivered");
+
+            Console.WriteLine(txt);
+            Console.WriteLine(status);
            
 
 
