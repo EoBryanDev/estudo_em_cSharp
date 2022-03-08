@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F36A2A7B-CC5D-44B6-A715-E24D8CC6DD4C}</ProjectGuid>
+    <ProjectGuid>{A210CFF5-A0D3-4954-8749-03E634A134F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Heritage</RootNamespace>
-    <AssemblyName>Heritage</AssemblyName>
+    <RootNamespace>InheridanceEmployees</RootNamespace>
+    <AssemblyName>InheridanceEmployees</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Account.cs" />
-    <Compile Include="Entities\BusinessAccount.cs" />
-    <Compile Include="Entities\SavingsAccount.cs" />
-    <Compile Include="Entities\SavingsAccountPlus.cs" />
+    <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\OutSourcingEmployee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
