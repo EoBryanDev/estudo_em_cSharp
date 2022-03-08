@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\bin\Debug\AbstractsMethods.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\bin\Debug\AbstractsMethods.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\bin\Debug\AbstractsMethods.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\obj\Debug\AbstractsMethods.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\obj\Debug\AbstractsMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\obj\Debug\AbstractsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\obj\Debug\AbstractsMethods.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\AbstractsMethods\AbstractsMethods\obj\Debug\AbstractsMethods.pdb
