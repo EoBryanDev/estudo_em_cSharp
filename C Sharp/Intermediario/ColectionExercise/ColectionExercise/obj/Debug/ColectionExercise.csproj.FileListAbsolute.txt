@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\bin\Debug\ColectionExercise.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\bin\Debug\ColectionExercise.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\bin\Debug\ColectionExercise.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\obj\Debug\ColectionExercise.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\obj\Debug\ColectionExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\obj\Debug\ColectionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\obj\Debug\ColectionExercise.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\ColectionExercise\ColectionExercise\obj\Debug\ColectionExercise.pdb

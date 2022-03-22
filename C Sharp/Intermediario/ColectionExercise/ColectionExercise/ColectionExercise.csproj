@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A48C886-900A-4179-B5A3-243D49F2D3CD}</ProjectGuid>
+    <ProjectGuid>{B445083C-DA06-4A84-9E55-6D54405B01C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EqualsGetHashClass</RootNamespace>
-    <AssemblyName>EqualsGetHashClass</AssemblyName>
+    <RootNamespace>ColectionExercise</RootNamespace>
+    <AssemblyName>ColectionExercise</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\LogRecord.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
