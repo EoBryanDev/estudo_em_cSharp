@@ -16,25 +16,32 @@ namespace Predicate
 
             list.Add(new Product("TV", 900.00));
             list.Add(new Product("MOUSE", 50.00));
-            list.Add(new Product("TABLET", 350.00));
+            list.Add(new Product("TABLET", 350.50));
             list.Add(new Product("HD CASE", 80.90));
 
-            //remove using with lambda expression
-            //----------list.RemoveAll(p => p.Price >= 100.0);
+            //using action method instanced
+            //-----Action<Product> act = UpdatePrice;
+            //-----list.ForEach(act);
+            //using a external ACTION method 
+            //-----list.ForEach(UpdatePrice);
 
-            //remove using predicate 
-            list.RemoveAll(ProductTest);
+            //resolving updating with lambda expression storaging in a variable
+            //-----Action<Product> act = p => { p.Price += p.Price * 0.1; };
+            //-----list.ForEach(act);
+            //resolving updating with lambda expression inline
+            list.ForEach(p => { p.Price += p.Price * 0.1 ; });
 
-            foreach(Product p in list)
+            foreach (Product p in list)
             {
-                Console.WriteLine(p);
+                Console.WriteLine(p) ;
             }
+          
             Console.ReadKey();
         }
 
-        public static bool ProductTest(Product p)
+        static void UpdatePrice(Product p)
         {
-            return p.Price >= 100.00;
+            p.Price += p.Price * 0.1;
         }
     }
 }
