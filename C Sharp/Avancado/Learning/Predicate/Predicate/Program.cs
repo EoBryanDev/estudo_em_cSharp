@@ -19,29 +19,29 @@ namespace Predicate
             list.Add(new Product("TABLET", 350.50));
             list.Add(new Product("HD CASE", 80.90));
 
-            //using action method instanced
-            //-----Action<Product> act = UpdatePrice;
-            //-----list.ForEach(act);
-            //using a external ACTION method 
-            //-----list.ForEach(UpdatePrice);
+            //using direct external reference on method selelect
+            //------List<string> result = list.Select(NameUpper).ToList();
 
-            //resolving updating with lambda expression storaging in a variable
-            //-----Action<Product> act = p => { p.Price += p.Price * 0.1; };
-            //-----list.ForEach(act);
-            //resolving updating with lambda expression inline
-            list.ForEach(p => { p.Price += p.Price * 0.1 ; });
+            //using declarated delegate with external reference included
+            //------Func<Product, string> func = NameUpper;
+            //------List<string> result = list.Select(func).ToList();
 
-            foreach (Product p in list)
+            //using lambda expression to return UpperCase list updated
+            //we didn't use keys in that lambda expression 'cuz its expected a return, with keys don't.
+            //-----Func<Product,string> func = p => p.Name.ToUpper();
+
+            //using lambda expression inline
+            List<string> result = list.Select(p => p.Name.ToUpper()).ToList();
+            foreach (string s in result)
             {
-                Console.WriteLine(p) ;
+                Console.WriteLine(s);
             }
-          
             Console.ReadKey();
         }
-
-        static void UpdatePrice(Product p)
+        /* external support shifter method 
+        static string NameUpper(Product p)
         {
-            p.Price += p.Price * 0.1;
-        }
+            return p.Name.ToUpper();
+        }*/
     }
 }
