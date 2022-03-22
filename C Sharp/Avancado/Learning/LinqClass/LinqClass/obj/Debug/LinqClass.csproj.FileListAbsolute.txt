@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\bin\Debug\LinqClass.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\bin\Debug\LinqClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\bin\Debug\LinqClass.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\obj\Debug\LinqClass.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\obj\Debug\LinqClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\obj\Debug\LinqClass.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\obj\Debug\LinqClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\LinqClass\LinqClass\obj\Debug\LinqClass.pdb
