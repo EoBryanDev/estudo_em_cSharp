@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Delegates\Delegates\obj\Debug\Delegates.pdb

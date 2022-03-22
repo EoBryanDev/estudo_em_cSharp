@@ -1,0 +1,7 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\bin\Debug\DictionaryClass.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\bin\Debug\DictionaryClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\bin\Debug\DictionaryClass.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\obj\Debug\DictionaryClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\obj\Debug\DictionaryClass.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\obj\Debug\DictionaryClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\DictionaryClass\DictionaryClass\obj\Debug\DictionaryClass.pdb
