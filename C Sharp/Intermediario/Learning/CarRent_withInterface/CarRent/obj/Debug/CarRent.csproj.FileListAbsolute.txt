@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\obj\Debug\CarRent.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\obj\Debug\CarRent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\obj\Debug\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\CarRent\CarRent\obj\Debug\CarRent.pdb

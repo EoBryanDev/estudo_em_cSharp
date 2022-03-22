@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\bin\Debug\GenericsClass.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\bin\Debug\GenericsClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\bin\Debug\GenericsClass.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\obj\Debug\GenericsClass.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\obj\Debug\GenericsClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\obj\Debug\GenericsClass.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\obj\Debug\GenericsClass.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\GenericsClass\GenericsClass\obj\Debug\GenericsClass.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\obj\Debug\InterfaceHeritage.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\obj\Debug\InterfaceHeritage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\obj\Debug\InterfaceHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\bin\Debug\InterfaceHeritage.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\bin\Debug\InterfaceHeritage.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\bin\Debug\InterfaceHeritage.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\obj\Debug\InterfaceHeritage.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Intermediario\Learning\InterfaceHeritage\InterfaceHeritage\obj\Debug\InterfaceHeritage.pdb
