@@ -1,0 +1,7 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\bin\Debug\Predicate.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\bin\Debug\Predicate.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\bin\Debug\Predicate.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\obj\Debug\Predicate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\obj\Debug\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\obj\Debug\Predicate.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Learning\Predicate\Predicate\obj\Debug\Predicate.pdb
