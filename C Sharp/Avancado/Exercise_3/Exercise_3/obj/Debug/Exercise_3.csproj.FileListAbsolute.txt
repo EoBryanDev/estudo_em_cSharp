@@ -1,0 +1,8 @@
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\obj\Debug\Exercise_3.exe
+C:\Users\Bryan\OneDrive\Documents\C Sharp\Avancado\Exercise_3\Exercise_3\obj\Debug\Exercise_3.pdb
