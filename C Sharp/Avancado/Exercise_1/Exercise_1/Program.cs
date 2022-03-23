@@ -67,6 +67,44 @@ namespace Exercise_1
             var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine($"Single or default test 2: {r9}");
 
+            var r10 = products.Max(p => p.Price);
+            Console.WriteLine($"Max Price: {r10}");
+
+            var r11 = products.Min(p => p.Price);
+            Console.WriteLine($"Min Price: {r11}");
+
+            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine($"Sum of catergory prices  id 1: {r12}");
+
+            var r13 = products.Where(p => p.Category.Id == 2).Average(p => p.Price);
+            Console.WriteLine($"Average of catergory prices  id 2: {r13}");
+
+            var r14 = products
+                .Where(r => r.Category.Id == 5)
+                .Select(p => p.Price)
+                .DefaultIfEmpty(0)
+                .Average();
+            Console.WriteLine($"Average of catergory prices  " +
+                $"with inexistent id: {r14}");
+
+            var r15 = products
+                .Where(p => p.Category.Id == 1)
+                .Select(p => p.Price)
+                .Aggregate(0.0,(x, y) => (x + y));
+            Console.WriteLine($"Category 1 aggregate sum: {r15}");
+            Console.WriteLine();
+
+            var r16 = products.GroupBy(p => p.Category);
+            foreach(IGrouping<Category,Product> group in r16)
+            {
+                Console.WriteLine($"Category {group.Key.Name} :");
+                foreach(Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+                   
+            }
 
             Console.ReadKey();
 
